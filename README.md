@@ -5,37 +5,54 @@ I'm Tencho, a software developer with a passion for C#, .NET, EF Core. I'm also 
 
 ## 🔭 Skills
 
-- .NET
-- Entity Framework Core (EF Core)
-- Microsoft SQL Server (MSSQL) and T-SQL
-- React
+</br><img height="25" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&style=plastic"  />
+<img height="25" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&style=plastic" />
+<img height="25" src="https://img.shields.io/badge/EF%20Core-5C2D91?style=for-the-badge&logo=.NET&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&style=plastic" />
+<img height="25" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&style=plastic"  />
+<img height="25" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 
 ## 🌱 Interests
 
-- .NET Development
-- React Development
-- Database design and management
+|Technologies                           |
+|---------------------------------------| 
+| .NET Development                      | 
+| React Development                     | 
+| Database design and management        |
 
 ## 📈 GitHub Stats
 
-![Total Commits](https://github-readme-stats.vercel.app/api?username=Tencho0&show_icons=true&count_private=true&include_all_commits=true&theme=dark)
-
-🔥 **Top Languages**
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tencho0&layout=compact&theme=dark)
-
-⭐ **Contributions**
-
-![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Tencho0&theme=dark)
-
-## 📫 Contact Me
-
-- Email: tencho1011@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/tencho-bostandzhiev-634562235/](https://www.linkedin.com/in/tencho-bostandzhiev-634562235/)
+<p align="center">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Tencho0&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" align="center"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tencho0&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&card_width=420" align="center"/>
+</p>
+<!--
+<p align="center">
+<img src= "https://github-profile-trophy.vercel.app/?username=Tencho0&theme=radical" />
+</p>
+-->
+<p align="center">
+<img src= "https://github-readme-streak-stats.herokuapp.com/?user=Tencho0&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 💼 Experience
+During my studies in software development, I have gained valuable experience in creating various projects. Here are some of my notable accomplishments:
 
-- Created a few small projects - you can see them in my GitHub profile
+### Car Renting System
+"CarRentingSystem" is a functional car rental web application that allows users to easily browse and book vehicles online. The application also includes search filters and sorting options to help users find the perfect car for their needs.
+- [CarRentingSystem](https://github.com/Tencho0/CarRentingSystem)
+
+### Front-End Development for "Theatre Avenue" project
+"Theatre Avenue" is a collaborative project that I contributed to, focusing on the development of a dynamic and interactive user interface using ReactJS and CSS.
+- [Theatre Avenue](https://github.com/Tencho0/TheatreAvenue)
+
+### Software University Projects
+During my studies at Software University, I tackled numerous complex programming tasks, which helped me to improve my problem-solving skills.
+- [Software University](https://github.com/Tencho0/SoftuniEducation)
+
+### Mini Projects
+In my free time, I enjoy working on personal projects to expand my skills and knowledge. I have a collection of Mini Projects on my repository which includes console games, mini web projects with C# MVC, and more.
+- [Mini Projects](https://github.com/Tencho0/Mini-Projects) 
 
 ## 🎓 Education
 
@@ -58,3 +75,16 @@ I'm Tencho, a software developer with a passion for C#, .NET, EF Core. I'm also 
 - English 
 - German (base level)
 
+## 📫 Contact Me
+
+<p align="center">
+    <a href="mailto:tencho1011@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://www.linkedin.com/in/tencho-bostandzhiev-634562235/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://m.facebook.com/people/%D0%A2%D0%B5%D0%BD%D1%87%D0%BE-%D0%91%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B6%D0%B8%D0%B5%D0%B2/100011746334281/">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    </a>
+</p>
