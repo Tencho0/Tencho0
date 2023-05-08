@@ -1,7 +1,10 @@
 # About Me
+[Personal online portfolio](https://645937ed85045.site123.me/)
+
+[Online CV](https://www.canva.com/design/DAFhs0fyOkg/2gtnVQ87yq3jpDJ3zOSMvw/view?utm_content=DAFhs0fyOkg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 # Hi there! 👋
-I'm Tencho, a software developer with a passion for C#, .NET, EF Core. I'm also experienced in building web applications with React. I'm currently seeking junior positions to further develop my skills and contribute to exciting projects. 
+I'm Tencho Bostandzhiev, a software developer with a passion for C#, .NET, EF Core. I'm also experienced in building web applications with React. I'm currently seeking junior positions to further develop my skills and contribute to exciting projects. 
 
 ## 🔭 Skills
 
