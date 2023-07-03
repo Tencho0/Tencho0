@@ -67,16 +67,18 @@ In my free time, I enjoy working on personal projects to expand my skills and kn
 - [C# Fundamentals](https://softuni.bg/certificates/details/130103/1b61fc8f)
 - [C# Advanced](https://softuni.bg/certificates/details/136353/987d4f57)
 - [C# OOP](https://softuni.bg/certificates/details/141116/fd23cac6)
-- [MSSQL](https://softuni.bg/certificates/details/157794/2a6367cc)
 - [EF Core Framework](https://softuni.bg/certificates/details/164830/461c9bb1)
+- [ASP.NET Fundamentals](https://softuni.bg/certificates/details/175357/616ff1b4)
+- [MSSQL](https://softuni.bg/certificates/details/157794/2a6367cc)
 - [JS Advanced](https://softuni.bg/certificates/details/145535/15f95940)
 - [JS Applications](https://softuni.bg/certificates/details/149926/350b2f11)
+- [Algorithms Fundamentals with C#](https://softuni.bg/certificates/details/176654/18c20c61)
 
 ## 🌍 Languages
 
 - Bulgarian
 - English 
-- German (base level)
+- German - B1
 
 ## 📫 Contact Me
 
