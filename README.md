@@ -60,6 +60,7 @@ In my free time, I enjoy working on personal projects to expand my skills and kn
 ## 🎓 Education
 
 - Software University (2021-2023)
+- Technical University (2023-2027)
 
 ## 🏆 Certifications
 
@@ -69,10 +70,12 @@ In my free time, I enjoy working on personal projects to expand my skills and kn
 - [C# OOP](https://softuni.bg/certificates/details/141116/fd23cac6)
 - [EF Core Framework](https://softuni.bg/certificates/details/164830/461c9bb1)
 - [ASP.NET Fundamentals](https://softuni.bg/certificates/details/175357/616ff1b4)
+- [ASP.NET Advanced](https://softuni.bg/certificates/details/182184/95db7df0)
 - [MSSQL](https://softuni.bg/certificates/details/157794/2a6367cc)
 - [JS Advanced](https://softuni.bg/certificates/details/145535/15f95940)
 - [JS Applications](https://softuni.bg/certificates/details/149926/350b2f11)
 - [Algorithms Fundamentals with C#](https://softuni.bg/certificates/details/176654/18c20c61)
+- [Algorithms Advanced with C#](https://softuni.bg/certificates/details/184510/3c0bb835)
 
 ## 🌍 Languages
 
