@@ -59,7 +59,7 @@ In my free time, I enjoy working on personal projects to expand my skills and kn
 
 ## 🎓 Education
 
-- Software University (2021-2023)
+- Software University (2021-2023) - [Diploma](https://softuni.bg/certificates/details/185033/861d8201)
 - Technical University (2023-2027)
 
 ## 🏆 Certifications
